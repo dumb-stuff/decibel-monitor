@@ -1,6 +1,6 @@
 # decibel-monitor
 A python script that tell decible in real time (based on your virtual sound driver)
-## Setup
+## Setup (Virtual Cable)
 If you want it to record your system output do the following
 1. [Download virtual cable](https://vb-audio.com/Cable/)<br>
 ![image](https://user-images.githubusercontent.com/59832159/146079856-2147fb79-582e-492f-ad66-261ad8097cce.png)<br>
@@ -19,3 +19,6 @@ If you want it to record your system output do the following
 ![image](https://user-images.githubusercontent.com/59832159/146081516-d7fcce2e-75ec-4cf7-b91c-a9dd314ad6a7.png)<br>
 ![image](https://user-images.githubusercontent.com/59832159/146081554-8cc80697-6c5b-4658-b104-3e1009db5314.png)<br>
 you're done :)
+## Setup (Stereo Mix)
+Just set stereo mix as main input<br>
+You can download and install from [here](https://www.realtek.com/en/component/zoo/category/pc-audio-codecs-high-definition-audio-codecs-software) (P.S. realtek cdn is shit)
