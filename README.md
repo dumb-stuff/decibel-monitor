@@ -1,5 +1,7 @@
 # decibel-monitor
 A python script that tell decible in real time (based on your virtual sound driver)
+## Usage
+run cli.py for cli. run gui.py for gui with tk and cli feature. gui.pyw is only window
 ## Setup (Virtual Cable)
 If you want it to record your system output do the following
 1. [Download virtual cable](https://vb-audio.com/Cable/)<br>
